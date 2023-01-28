@@ -291,40 +291,30 @@ body [data-bueno-mint]{
 }
 @font-face{
     font-family:inherit;
-    src:url(https://nft.bueno.art/widget/v3/fonts/gorditalight-webfont.eot);
-    src:url(https://nft.bueno.art/widget/v3/fonts/gorditalight-webfont.eot?#iefix) format("embedded-opentype"),url(https://nft.bueno.art/widget/v3/fonts/gorditalight-webfont.woff2) format("woff2"),url(https://nft.bueno.art/widget/v3/fonts/gorditalight-webfont.woff) format("woff"),url(https://nft.bueno.art/widget/v3/fonts/gorditalight-webfont.ttf) format("truetype"),url(https://nft.bueno.art/widget/v3/fonts/gorditalight-webfont.svg#gorditalight) format("svg");
     font-weight:300;
     font-style:normal;
     font-display:swap
 }
 @font-face{
     font-family:inherit;
-    src:url(https://nft.bueno.art/widget/v3/fonts/gorditaregular-webfont.eot);
-    src:url(https://nft.bueno.art/widget/v3/fonts/gorditaregular-webfont.eot?#iefix) format("embedded-opentype"),url(https://nft.bueno.art/widget/v3/fonts/gorditaregular-webfont.woff2) format("woff2"),url(https://nft.bueno.art/widget/v3/fonts/gorditaregular-webfont.woff) format("woff"),url(https://nft.bueno.art/widget/v3/fonts/gorditaregular-webfont.ttf) format("truetype"),url(https://nft.bueno.art/widget/v3/fonts/gorditaregular-webfont.svg#gorditaregular) format("svg");
     font-weight:400;
     font-style:normal;
     font-display:swap
 }
 @font-face{
     font-family:inherit;
-    src:url(https://nft.bueno.art/widget/v3/fonts/gorditamedium-webfont.eot);
-    src:url(https://nft.bueno.art/widget/v3/fonts/gorditamedium-webfont.eot?#iefix) format("embedded-opentype"),url(https://nft.bueno.art/widget/v3/fonts/gorditamedium-webfont.woff2) format("woff2"),url(https://nft.bueno.art/widget/v3/fonts/gorditamedium-webfont.woff) format("woff"),url(https://nft.bueno.art/widget/v3/fonts/gorditamedium-webfont.ttf) format("truetype"),url(https://nft.bueno.art/widget/v3/fonts/gorditamedium-webfont.svg#gorditamedium) format("svg");
     font-weight:500;
     font-style:normal;
     font-display:swap
 }
 @font-face{
     font-family:inherit;
-    src:url(https://nft.bueno.art/widget/v3/fonts/gorditabold-webfont.eot);
-    src:url(https://nft.bueno.art/widget/v3/fonts/gorditabold-webfont.eot?#iefix) format("embedded-opentype"),url(https://nft.bueno.art/widget/v3/fonts/gorditabold-webfont.woff2) format("woff2"),url(https://nft.bueno.art/widget/v3/fonts/gorditabold-webfont.woff) format("woff"),url(https://nft.bueno.art/widget/v3/fonts/gorditabold-webfont.ttf) format("truetype"),url(https://nft.bueno.art/widget/v3/fonts/gorditabold-webfont.svg#gorditabold) format("svg");
     font-weight:700;
     font-style:normal;
     font-display:swap
 }
 @font-face{
     font-family:inherit;
-    src:url(https://nft.bueno.art/widget/v3/fonts/gorditablack-webfont.eot);
-    src:url(https://nft.bueno.art/widget/v3/fonts/gorditablack-webfont.eot?#iefix) format("embedded-opentype"),url(https://nft.bueno.art/widget/v3/fonts/gorditablack-webfont.woff2) format("woff2"),url(https://nft.bueno.art/widget/v3/fonts/gorditablack-webfont.woff) format("woff"),url(https://nft.bueno.art/widget/v3/fonts/gorditablack-webfont.ttf) format("truetype"),url(https://nft.bueno.art/widget/v3/fonts/gorditablack-webfont.svg#gorditablack) format("svg");
     font-weight:800;
     font-style:normal;
     font-display:swap
